@@ -1,0 +1,36 @@
+Asset_Register.xlsx
+Asset ID	  Asset Name	  Brand	  Model	  Serial No	  User	  Department	  Purchase   Date	  Warranty   Expiry	  Status
+
+
+
+
+Implementation Guide
+Step 1
+
+Create unique Asset IDs.
+
+Example:
+
+LAP-001
+DESK-001
+MON-001
+SRV-001
+Step 2
+
+Tag every device.
+
+Step 3
+
+Maintain central inventory.
+
+Step 4
+
+Quarterly physical verification.
+
+Step 5
+
+Track warranty and AMC.
+
+Step 6
+
+Dispose of retired assets securely.
