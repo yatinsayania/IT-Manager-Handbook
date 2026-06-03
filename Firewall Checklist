@@ -1,0 +1,20 @@
+Firewall_Checklist.xlsx
+Item	Status	Remarks
+Firmware Updated	Yes/No	
+VPN Configured	Yes/No	
+Default Password Removed	Yes/No	
+Unused Rules Removed	Yes/No	
+MFA Enabled	Yes/No	
+Firewall Implementation Guide
+Daily
+Check alerts
+Check blocked attacks
+Weekly
+Review logs
+Review VPN users
+Monthly
+Rule cleanup
+Firmware updates
+Quarterly
+Vulnerability Assessment
+Penetration Testing
