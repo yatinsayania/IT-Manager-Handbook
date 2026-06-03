@@ -1,0 +1,35 @@
+DR Plan Template
+System	RTO	RPO	Recovery Method
+ERP	4 Hr	30 Min	VM Restore
+Email	2 Hr	15 Min	Cloud Recovery
+Implementation Guide
+Phase 1
+
+Business Impact Analysis
+
+Identify:
+
+Critical systems
+Downtime cost
+Phase 2
+
+Define
+
+RTO = Recovery Time Objective
+
+RPO = Recovery Point Objective
+
+Phase 3
+
+Build DR Site
+
+Options:
+
+Cold Site
+Warm Site
+Hot Site
+Phase 4
+
+Test Every 6 Months
+
+Document results.
