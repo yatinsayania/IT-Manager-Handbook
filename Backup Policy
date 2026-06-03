@@ -1,0 +1,35 @@
+Backup Monitoring Sheet
+Date	  Server	  Backup Type	    Success	    Verified By
+Backup Policy
+Backup Rule
+3 Copies
+2 Different Media
+1 Offsite Copy
+Backup Schedule
+Type	Frequency
+Full	Weekly
+Incremental	Daily
+Database	Every 4 Hours
+Retention
+Backup	Retention
+Daily	30 Days
+Monthly	12 Months
+Yearly	7 Years
+Implementation
+Primary Backup
+
+NAS Storage
+
+Secondary Backup
+
+External HDD
+
+Third Copy
+
+Cloud
+
+Examples:
+
+Microsoft Azure
+AWS S3
+Google Cloud
